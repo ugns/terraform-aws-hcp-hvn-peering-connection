@@ -6,13 +6,14 @@ module "hcp_hvn" {
   source = "ugns/hcp-hvn/aws"
   # version = "x.x.x"
 
-  hvn_region = "us-east-1"
+  hvn_region = var.hvn_region
 
   context = module.label.this
 }
 
 module "example" {
-  source = "ugns/hcp-hvn-peering-connection/aws"
+  source = "../.."
+  # source = "ugns/hcp-hvn-peering-connection/aws"
   # version = "x.x.x"
 
   hcp_hvn_id  = module.hcp_hvn.hcp_hvn_id

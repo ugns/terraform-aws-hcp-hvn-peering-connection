@@ -1,1 +1,3 @@
 provider "hcp" {}
+
+provider "aws" {}

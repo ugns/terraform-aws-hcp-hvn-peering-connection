@@ -147,7 +147,7 @@ Here's how to get started...
 ## Examples
 
 Here is an example of using this module:
-- [`examples/complete`](https://github.com/ugns/terraform-aws-hcp-hvn) - complete example of using this module
+- [`examples/complete`](https://github.com/ugns/terraform-aws-hcp-hvn-peering-connection/tree/main/examples/complete) - complete example of using this module
 
 
 
@@ -333,7 +333,7 @@ This project is maintained and funded by [UnderGrid Network Services][website]. 
 
 [![UnderGrid Network Services][logo]][website]
 
-We're a DevOps Professional Services company based in Kissimmee, FL.
+We're a DevOps Professional Services consulting firm based in Kissimmee, FL.
 
 Check out [our other projects][github].
 
@@ -350,7 +350,7 @@ Check out [our other projects][github].
 
 [![Beacon][beacon]][website]
 
-  [logo]: https://cloudposse.com/logo-300x69.svg
+  [logo]: https://undergrid.net/undergrid-logo-300x88.png
   [docs]: https://cpco.io/docs?utm_source=github&utm_medium=readme&utm_campaign=ugns/terraform-aws-hcp-hvn-peering-connection&utm_content=docs
   [website]: https://undergrid.net?utm_source=github&utm_medium=readme&utm_campaign=ugns/terraform-aws-hcp-hvn-peering-connection&utm_content=website
   [cloudposse]: https://cpco.io/homepage?utm_source=github&utm_medium=readme&utm_campaign=ugns/terraform-aws-hcp-hvn-peering-connection&utm_content=cloudposse
@@ -365,4 +365,4 @@ Check out [our other projects][github].
   [share_facebook]: https://facebook.com/sharer/sharer.php?u=https://github.com/ugns/terraform-aws-hcp-hvn-peering-connection
   [share_googleplus]: https://plus.google.com/share?url=https://github.com/ugns/terraform-aws-hcp-hvn-peering-connection
   [share_email]: mailto:?subject=terraform-aws-hcp-hvn-peering-connection&body=https://github.com/ugns/terraform-aws-hcp-hvn-peering-connection
-  [beacon]: https://ga-beacon.cloudposse.com/UA-76589703-4/ugns/terraform-aws-hcp-hvn-peering-connection?pixel&cs=github&cm=readme&an=terraform-aws-hcp-hvn-peering-connection
+  [beacon]: https://ga-beacon.cloudposse.com/UA-2819624-1/ugns/terraform-aws-hcp-hvn-peering-connection?pixel&cs=github&cm=readme&an=terraform-aws-hcp-hvn-peering-connection

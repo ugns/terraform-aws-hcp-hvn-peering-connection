@@ -101,7 +101,7 @@ usage: |-
 # Example usage
 examples: |-
   Here is an example of using this module:
-  - [`examples/complete`](https://github.com/ugns/terraform-aws-hcp-hvn) - complete example of using this module
+  - [`examples/complete`](https://github.com/ugns/terraform-aws-hcp-hvn-peering-connection/tree/main/examples/complete) - complete example of using this module
 
 # How to get started quickly
 quickstart: |-
