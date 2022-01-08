@@ -61,5 +61,6 @@
 
 | Name | Description |
 |------|-------------|
-| <a name="output_hcp_hvn_target_link"></a> [hcp\_hvn\_target\_link](#output\_hcp\_hvn\_target\_link) | A unique URL identifying the HVN route. |
+| <a name="output_aws_peer_destination_cidr"></a> [aws\_peer\_destination\_cidr](#output\_aws\_peer\_destination\_cidr) | The destination CIDR of the VPC peer. |
+| <a name="output_hcp_hvn_target_link"></a> [hcp\_hvn\_target\_link](#output\_hcp\_hvn\_target\_link) | A unique URL identifying the network peering. |
 <!-- markdownlint-restore -->

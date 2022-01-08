@@ -226,7 +226,8 @@ Available targets:
 
 | Name | Description |
 |------|-------------|
-| <a name="output_hcp_hvn_target_link"></a> [hcp\_hvn\_target\_link](#output\_hcp\_hvn\_target\_link) | A unique URL identifying the HVN route. |
+| <a name="output_aws_peer_destination_cidr"></a> [aws\_peer\_destination\_cidr](#output\_aws\_peer\_destination\_cidr) | The destination CIDR of the VPC peer. |
+| <a name="output_hcp_hvn_target_link"></a> [hcp\_hvn\_target\_link](#output\_hcp\_hvn\_target\_link) | A unique URL identifying the network peering. |
 <!-- markdownlint-restore -->
 
 
@@ -250,7 +251,7 @@ Check out these related projects.
 
 For additional context, refer to some of these links.
 
-- [hashicorp-amazon-peering-hcp](https://learn.hashicorp.com/tutorials/cloud/amazon-peering-hcp?in=cloud/consul-cloud) - Peering an AWS VPC with HashiCorp Cloud Platform (HCP).
+- [peering-aws-vpc](https://learn.hashicorp.com/tutorials/cloud/amazon-peering-hcp?in=cloud/networking) - Peering an AWS VPC with HashiCorp Cloud Platform.
 - [terraform-provider-hcp](https://github.com/hashicorp/terraform-provider-hcp) - Terraform provider for HashiCorp Cloud Platform.
 
 
