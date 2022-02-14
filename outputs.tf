@@ -1,6 +1,6 @@
 output "hcp_hvn_target_link" {
   description = "A unique URL identifying the network peering."
-  value       = hcp_aws_network_peering.this[0].self_link
+  value       = join("", hcp_aws_network_peering.this.*.self_link)
 }
 
 output "aws_peer_destination_cidr" {
