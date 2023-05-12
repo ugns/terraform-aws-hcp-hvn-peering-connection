@@ -5,14 +5,14 @@
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 0.13 |
 | <a name="requirement_aws"></a> [aws](#requirement\_aws) | 3.70.0 |
-| <a name="requirement_hcp"></a> [hcp](#requirement\_hcp) | 0.21.1 |
+| <a name="requirement_hcp"></a> [hcp](#requirement\_hcp) | 0.56.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
 | <a name="provider_aws"></a> [aws](#provider\_aws) | 3.70.0 |
-| <a name="provider_hcp"></a> [hcp](#provider\_hcp) | 0.21.1 |
+| <a name="provider_hcp"></a> [hcp](#provider\_hcp) | 0.56.0 |
 
 ## Modules
 
@@ -26,7 +26,7 @@
 | Name | Type |
 |------|------|
 | [aws_vpc_peering_connection_accepter.this](https://registry.terraform.io/providers/hashicorp/aws/3.70.0/docs/resources/vpc_peering_connection_accepter) | resource |
-| [hcp_aws_network_peering.this](https://registry.terraform.io/providers/hashicorp/hcp/0.21.1/docs/resources/aws_network_peering) | resource |
+| [hcp_aws_network_peering.this](https://registry.terraform.io/providers/hashicorp/hcp/0.56.0/docs/resources/aws_network_peering) | resource |
 | [aws_arn.peer](https://registry.terraform.io/providers/hashicorp/aws/3.70.0/docs/data-sources/arn) | data source |
 | [aws_vpc.peer](https://registry.terraform.io/providers/hashicorp/aws/3.70.0/docs/data-sources/vpc) | data source |
 
